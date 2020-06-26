@@ -7,3 +7,9 @@ this is some text to describe my character. bla bla, hello.
 * big
 * mean
 * hungry
+
+
+the quote:
+
+> to be or not to be
+> OMG
